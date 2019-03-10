@@ -7,4 +7,4 @@
 
 * Run Application
 
-  - forman start
+  - foreman start
